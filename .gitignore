@@ -105,3 +105,9 @@ crashlytics-build.properties
 
 # OS X
 .DS_Store
+
+# Eclipse project files
+.classpath
+.project
+.metadata/
+.recommenders/
