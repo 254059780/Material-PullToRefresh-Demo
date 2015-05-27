@@ -16,7 +16,6 @@
 
 package com.takwolf.android.material.pulltorefresh;
 
-
 public class Entity {
 
     private String avatar;

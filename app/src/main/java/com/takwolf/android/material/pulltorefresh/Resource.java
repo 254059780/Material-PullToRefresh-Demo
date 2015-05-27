@@ -16,10 +16,9 @@
 
 package com.takwolf.android.material.pulltorefresh;
 
-
 public class Resource {
 
-    public final static String[] names = {
+    public static final String[] names = {
             "TakWolf",
             "Hitomi",
             "Tom",
@@ -36,7 +35,7 @@ public class Resource {
             "Miyo"
     };
 
-    public final static String[] avatars = {
+    public static final String[] avatars = {
             "http://img.my.csdn.net/uploads/201407/26/1406383299_1976.jpg",
             "http://img.my.csdn.net/uploads/201407/26/1406383291_6518.jpg",
             "http://img.my.csdn.net/uploads/201407/26/1406383291_8239.jpg",

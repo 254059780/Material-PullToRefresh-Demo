@@ -28,7 +28,6 @@ import java.util.List;
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 
-
 public class MainActivity extends ActionBarActivity implements SwipeRefreshLayout.OnRefreshListener {
 
     @InjectView(R.id.refresh_layout)

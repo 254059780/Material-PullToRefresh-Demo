@@ -16,7 +16,6 @@
 
 package com.takwolf.android.material.pulltorefresh;
 
-
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -32,12 +31,10 @@ import butterknife.InjectView;
 
 public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ViewHolder> {
 
-    private Context context;
     private LayoutInflater inflater;
     private List<Entity> entityList;
 
     public MainAdapter(Context context, List<Entity> entityList) {
-        this.context = context;
         inflater = LayoutInflater.from(context);
         this.entityList = entityList;
     }

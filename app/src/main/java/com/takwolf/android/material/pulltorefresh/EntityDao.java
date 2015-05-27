@@ -16,7 +16,6 @@
 
 package com.takwolf.android.material.pulltorefresh;
 
-
 import java.util.ArrayList;
 import java.util.List;
 
